@@ -7,6 +7,8 @@ this.min = min;
     }
 
     guess() {
+
+      
 return Math.ceil((this.max+this.min)/2);
     }
 
